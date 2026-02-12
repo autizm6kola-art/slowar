@@ -47,15 +47,18 @@
   background-color: #fafafa;
 }
 
+
+
+
 @media (max-width: 600px) {
   .task-container {
-  max-width: 350px;
+  max-width: 300px;
   }
   
   
   .task-heading {
     font-size: 22px;
-    margin: 30px 0 12px;
+    margin: 15px 0 12px;
   }
 
   .task-back-button {
@@ -65,7 +68,7 @@
 
   .task-grid {
     grid-template-columns: 1fr;
-    gap: 15px;
+    gap: 10px;
   }
 
   .task-back-button {
