@@ -43,7 +43,7 @@ function MenuPage({ allTasks, onSelectRange }) {
 
   return (
     <div className="menu-container">
-      <BackButton />
+     
 
       <h1 className="menu-title">Толковый словарь</h1>
 
