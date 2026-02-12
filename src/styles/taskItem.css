@@ -1,6 +1,4 @@
-/* .task-item {
-  /* если нужно, можно сюда добавить отступы и фоновый цвет */
-/* } */ 
+
 
 .task-item input[type="text"] {
   padding: 5px;
@@ -260,6 +258,10 @@ input {
   .text-block {
   white-space: pre-line;
 }
+
+
+
+
 
 }
 

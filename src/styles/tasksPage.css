@@ -48,6 +48,11 @@
 }
 
 @media (max-width: 600px) {
+  .task-container {
+  max-width: 350px;
+  }
+  
+  
   .task-heading {
     font-size: 22px;
     margin: 30px 0 12px;
