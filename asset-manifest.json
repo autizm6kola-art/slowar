@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/slowar/static/css/main.eb2e4482.css",
+    "main.js": "/slowar/static/js/main.825d8d00.js",
+    "static/js/453.d37bcb50.chunk.js": "/slowar/static/js/453.d37bcb50.chunk.js",
+    "index.html": "/slowar/index.html",
+    "main.eb2e4482.css.map": "/slowar/static/css/main.eb2e4482.css.map",
+    "main.825d8d00.js.map": "/slowar/static/js/main.825d8d00.js.map",
+    "453.d37bcb50.chunk.js.map": "/slowar/static/js/453.d37bcb50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb2e4482.css",
+    "static/js/main.825d8d00.js"
+  ]
+}
